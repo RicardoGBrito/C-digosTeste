@@ -1,0 +1,5 @@
+O prompt de comando (CMD),que tem seu sistema baseado no DOS foi criado em 1981 com o objetivo de de interpretar linhas de comando e é usado até hoje.
+
+O Powershell é um interpretador de linhas de comando criado em 2006, baseado na linguagem .NET da Microsoft, com o intuito de substituir o CMD, o qual já apresenta uma estrutura mais moderna (pode interagir com sistemas mais modernos), é um software multipataforma e permite modo gráfico.
+
+O Terminal é um interpretador de linha de comando criado em 1991 pelo criador do linux (Linus Torvalds). Ele é muito versátil, também é de multiplataforma e permite o modo texto ou framebuffer (ele é capaz de armazenarem um buffer de memória a tarefa que está sendo executada e executar outra ao mesmo tempo. Isso é importante porque linha de comando executa o comando que está na tela.). 

@@ -1,0 +1,1 @@
+Softwares são aplicativos que executam nos sistemas operacionais, enquanto hardwares são as partes físicas que compõe a máquina, como memória, hard disk, placas, etc.
