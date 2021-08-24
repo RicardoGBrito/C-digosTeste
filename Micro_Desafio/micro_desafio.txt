@@ -1,0 +1,5 @@
+MATILDA - Intel Core i5-6360U - Como o jogo exige muito processamento, escolhemos o i5 em vez do i3.
+
+MARCELO - Intel Core i3-3217UE - Como a necessida é somente para o office, separamos o processador mais simples para suprir esse tipo de necessidade.
+
+CARLOS - Intel Core i7-4790 - Como a necessidade é edição e processamento de imagem e vídeos, separamos o melhor processador para ele.
